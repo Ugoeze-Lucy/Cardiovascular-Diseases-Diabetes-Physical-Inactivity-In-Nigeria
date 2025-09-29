@@ -179,3 +179,6 @@ By turning insights into action, Nigeria can not only reduce premature deaths fr
 
 The project is about using data to tell the story of how everyday choices and risk factors connect to two of the country’s biggest health challenges  and why this matters for the future of public health.
 
+NOTE
+
+Click the files section for the python code
