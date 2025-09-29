@@ -2,13 +2,16 @@
 
 DESCRIPTION 
 
-This project uses WHO datasets to explore how lifestyle and biological risk factors drive the rising burden of cardiovascular disease (CVD) and diabetes in Nigeria. Non-communicable diseases (NCDs) like heart disease and diabetes are rising globally, and Nigeria is no exception.
+This project uses WHO datasets (https://ncdportal.org/CountryProfile/GHE110/NGA) to explore how lifestyle and biological risk factors drive the rising burden of cardiovascular disease (CVD) and diabetes in Nigeria. Non-communicable diseases (NCDs) like heart disease and diabetes are rising globally, and Nigeria is no exception.
 
 The analysis focuses on two main questions:
 
 -Which lifestyle and metabolic risk factors are most strongly associated with CVD deaths in Nigeria?
 
 -How has diabetes prevalence changed over time, and what does this mean for the future?
+
+
+<img width="781" height="509" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/fe5bd4ad-a8d0-4e2e-b929-3f6d6ef6db90" />
 
 INTRODUCTION
 
@@ -71,7 +74,19 @@ To explore and visualize the data, I worked mainly with Python and a few librari
 
 -Jupyter Notebook: as the main workspace for writing, running, and documenting the analysis step by step.
 
+
 FINDINGS 
+
+<img width="782" height="428" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/64e52bad-1f0d-4c65-9fed-82215709e361" />
+
+<img width="533" height="160" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/325819f4-58c5-46c8-8e67-1d64b2813a63" />
+
+<img width="861" height="544" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/70fa54a5-4eef-48b2-bd28-af669510a9a6" />
+
+<img width="434" height="214" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/9311b389-65b5-46b2-9474-cc1bdcc0ffe3" />
+
+<img width="796" height="513" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/b21c78d4-a9bd-4912-94d0-71d77f56db67" />
+
 
 1.Diabetes Prevalence is Rising Steadily
 
@@ -163,3 +178,4 @@ By turning insights into action, Nigeria can not only reduce premature deaths fr
 
 
 The project is about using data to tell the story of how everyday choices and risk factors connect to two of the country’s biggest health challenges  and why this matters for the future of public health.
+
